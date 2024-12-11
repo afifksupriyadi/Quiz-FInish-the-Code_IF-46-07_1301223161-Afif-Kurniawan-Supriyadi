@@ -14,12 +14,14 @@ Tampilan awal project saat dijalankan, berasal dari file `index.html`.
 
 ![Tampilan Awal](images/1-index.png)
 
+
 ### 2. Login Form
 Tampilan login form, masukkan data:
 - **Username**: `admin`
 - **Password**: `admin123`
 
 ![Login Form](images/2-login.png)
+
 
 ### 3. Halaman Welcome
 Setelah tombol **Login** diklik, user akan diarahkan ke halaman `welcome.jsp`.
@@ -32,12 +34,15 @@ Halaman ini memiliki dua tombol:
 
 ### 4. Daftar User
 Klik tombol **List User** untuk melihat daftar user yang ada dalam tabel database.
+
 ![Daftar User](images/4-user-list.png)
+
 
 ### 5. Edit User
 Klik tombol **Edit** pada daftar user untuk mengubah data user.
 #### Tampilan Form Edit Data 1
 Misalkan data ke-1 akan diubah username dan full name-nya
+
 ![Edit Data 1](images/5-edit-data1.png)
 
 #### Tampilan Form Edit Data 2
@@ -70,7 +75,9 @@ FullName: Sutan Rifky Tedjasukmana
 
 #### Tampilan User List 
 Setelah data user baru ditambahkan, halaman akan kembali ke daftar user (userList).
+
 ![Add User 2](images/8-add-user-berhasil.png)
+
 
 ### 7. Menghapus User
 Klik tombol **Delete** pada daftar user untuk menghapus data user tertentu.
@@ -82,6 +89,7 @@ Misalkan data dengan ID(1) akan dihapus
 Data dengan ID(1) berhasil dihapus
 
 ![Delete Berhasil](images/10-delete-berhasil.png)
+
 
 ---
 
