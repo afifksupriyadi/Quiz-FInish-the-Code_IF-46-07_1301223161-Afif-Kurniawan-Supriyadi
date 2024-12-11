@@ -16,6 +16,7 @@ Tampilan awal project saat dijalankan, berasal dari file `index.html`.
 Tampilan login form, masukkan data:
 - **Username**: `admin`
 - **Password**: `admin123`
+
 ![Login Form](images/2-login.png)
 
 ### 3. Halaman Welcome
