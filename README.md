@@ -48,7 +48,7 @@ Misalkan data ke-1 akan diubah username dan full name-nya
 #### Tampilan Form Edit Data 2
 - Username: afifksupriyadi -> afif
 - Fullname: Afif Kurniawan Supriyadi -> Afif Ibnul Mubarok
-Setelah data diubah, klik tombol **Update**.
+- Setelah data diubah, klik tombol **Update**.
 
 ![Edit Data 2](images/6-edit-data2.png)
 
@@ -69,7 +69,7 @@ Masukkan data username, passsord, dan fullname pada form
 Misalkan akan ditambahkan data baru:
 - Username: sutanrifky
 - Password: sutan
-FullName: Sutan Rifky Tedjasukmana
+- FullName: Sutan Rifky Tedjasukmana
 
 ![Add User 2](images/8-add-user2.png)
 
